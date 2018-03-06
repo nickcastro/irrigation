@@ -1,0 +1,11 @@
+.auth0-lock.auth0-lock .auth0-lock-header-bg {
+    background: #f4f4f4 !important;
+}
+
+.auth0-lock.auth0-lock.auth0-lock-opened-in-frame .auth0-lock-header-bg .auth0-lock-header-bg-blur {
+    opacity: 0.1 !important;
+}
+
+.auth0-lock-submit {
+	background-color: #F66733 !important;
+}

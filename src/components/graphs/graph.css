@@ -1,0 +1,65 @@
+#labelsDiv{
+	float:right;
+}
+
+#labelsDiv_ETo{
+	float:right;
+}
+
+#labelsDiv_ETsum{
+	float:right;
+}
+
+#labelsDiv_mainPlot{
+	float:right;
+}
+
+#labelsDiv_dist{
+	float:right;
+}
+
+#labelsDiv_distsum{
+	float:right;
+}
+
+#labelsDiv_precip{
+	float:right;
+}
+.dygraph-title {
+	text-align:center;
+}
+
+.dygraph-ylabel{
+ 	transform: rotate(-90deg) translateX(185px);
+    -ms-transform: rotate(-90deg) translateX(185px);
+    -webkit-transform: rotate(-90deg) translateX(185px);
+}
+
+.dygraph-y2label{
+ 	transform: rotate(90deg) translateX(115px);
+    -ms-transform: rotate(90deg) translateX(115px);
+    -webkit-transform: rotate(90deg) translateX(115px);
+}
+
+.dygraph-xlabel{
+	text-align:center;
+}
+
+.tick {
+  opacity: 1;
+}
+
+ .nv-y {
+	stroke: #333;
+    stroke-opacity: .05;
+    shape-rendering: crispEdges;
+}
+
+.nv-zeroLine{
+	stroke: #000;
+    stroke-opacity: .35;
+    shape-rendering: crispEdges;
+}
+
+
+

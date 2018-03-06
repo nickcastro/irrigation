@@ -1,18 +1,68 @@
 {
-  "name": "irrigation",
-  "version": "0.1.0",
-  "private": true,
+  "name": "react-redux-auth0-kit",
+  "version": "1.1.0",
+  "description": "Minimal starter boilerplate project with React, Redux, React Router and Auth0 authentication",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amaurymartiny/react-redux-auth0-kit.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "react-router",
+    "auth0",
+    "boilerplate",
+    "starter"
+  ],
+  "author": "Amaury Martiny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amaurymartiny/react-redux-auth0-kit/issues"
+  },
+  "homepage": "https://github.com/amaurymartiny/react-redux-auth0-kit",
   "dependencies": {
+    "auth0-lock": "^10.16.0",
+    "axios": "^0.16.2",
+    "body-parser": "^1.17.2",
+    "dygraphs": "^2.0.0",
+    "express": "^4.15.3",
+    "file-system": "^2.2.2",
+    "foreman": "^2.0.0",
+    "jwt-decode": "^2.2.0",
+    "lodash": "^4.17.4",
+    "marked": "^0.3.6",
+    "material-ui": "^0.19.0",
+    "material-ui-icons": "^1.0.0-alpha.19",
+    "mongoose": "^4.11.1",
+    "nodemon": "^1.11.0",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-bootstrap": "^0.31.0",
+    "react-dom": "^15.6.1",
+    "react-nvd3": "^0.5.7",
+    "react-redux": "^5.0.5",
+    "react-router-dom": "^4.1.1",
+    "react-svg-gauge": "^1.0.5",
+    "react-svg-gauge-fork-custom": "^1.0.3",
+    "react-tap-event-plugin": "^2.0.1",
+    "redux": "^3.6.0"
   },
   "devDependencies": {
-    "react-scripts": "1.0.10"
+    "chai": "^3.5.0",
+    "enzyme": "^2.8.2",
+    "eslint": "^3.19.0",
+    "eslint-loader": "^1.7.1",
+    "eslint-plugin-react": "^7.0.1",
+    "react-addons-test-utils": "^15.5.1",
+    "react-scripts": "1.0.6",
+    "react-test-renderer": "^15.5.4",
+    "uglify-js": "git+https://github.com/mishoo/UglifyJS2.git#harmony"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "lint": "eslint ."
   }
 }

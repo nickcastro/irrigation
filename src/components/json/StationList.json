@@ -1,0 +1,122 @@
+[
+	{
+		"State": "SC",
+		"City": "Blackville",
+		"County": "Barnwell",
+		"StationID": "KSCBLACK8",
+		"Latitude": "33.365000000000002",
+		"Longitude": "-81.328999999999994",
+		"Altitude (ft)": "331",
+		"StartDate": "02-11-15"
+	},
+	{
+		"State": "SC",
+		"City": "Six Mile",
+		"County": "Pickens",
+		"StationID": "KSCSIXMI4",
+		"Latitude": "34.838000000000001",
+		"Longitude": "-82.870999999999995",
+		"Altitude (ft)": "961",
+		"StartDate": "02-28-17"
+	},
+	{
+		"State": "SC",
+		"City": "Charleston",
+		"County": "Charleston",
+		"StationID": "KSCCHARL77",
+		"Latitude": "32.795000000000002",
+		"Longitude": "-80.067999999999998",
+		"Altitude (ft)": "23",
+		"StartDate": "09-23-15"
+	},
+	{
+		"State": "SC",
+		"City": "Fairfax",
+		"County": "Allendale",
+		"StationID": "KSCFAIRF2",
+		"Latitude": "32.988999999999997",
+		"Longitude": "-81.292000000000002",
+		"Altitude (ft)": "167",
+		"StartDate": "07-27-15"
+	},
+	{
+		"State": "SC",
+		"City": "Pinewood",
+		"County": "Sumter",
+		"StationID": "KSCPINEW2",
+		"Latitude": "33.695999999999998",
+		"Longitude": "-80.411000000000001",
+		"Altitude (ft)": "177",
+		"StartDate": "06-21-15"
+	},
+	{
+		"State": "SC",
+		"City": "Estill",
+		"County": "Hampton",
+		"StationID": "KSCESTIL3",
+		"Latitude": "32.774999999999999",
+		"Longitude": "-81.171000000000006",
+		"Altitude (ft)": "118",
+		"StartDate": "06-25-16"
+	},
+	{
+		"State": "SC",
+		"City": "Reevesville",
+		"County": "Dorchester",
+		"StationID": "KSCREEVE2",
+		"Latitude": "33.218000000000004",
+		"Longitude": "-80.644000000000005",
+		"Altitude (ft)": "105",
+		"StartDate": "05-25-15"
+	},
+	{
+		"State": "SC",
+		"City": "Luray",
+		"County": "Hampton",
+		"StationID": "KSCLURAY2",
+		"Latitude": "32.817",
+		"Longitude": "-81.241",
+		"Altitude (ft)": "138",
+		"StartDate": "06-26-16"
+	},
+	{
+		"State": "SC",
+		"City": "Ehrhardt",
+		"County": "Bamberg",
+		"StationID": "KSCEHRHA2",
+		"Latitude": "33.097000000000001",
+		"Longitude": "-81.013999999999996",
+		"Altitude (ft)": "154",
+		"StartDate": "08-26-16"
+	},
+	{
+		"State": "SC",
+		"City": "Neeses",
+		"County": "Orangeburg",
+		"StationID": "KSCNEESE2",
+		"Latitude": "33.56",
+		"Longitude": "-81.174999999999997",
+		"Altitude (ft)": "374",
+		"StartDate": "07-25-16"
+	},
+	{
+		"State": "SC",
+		"City": "Cameron",
+		"County": "Calhoun ",
+		"StationID": "KSCCAMER2",
+		"Latitude": "33.51",
+		"Longitude": "-80.671000000000006",
+		"Altitude (ft)": "971",
+		"StartDate": "12-16-16"
+	},
+	{
+		"State": "SC",
+		"City": "Denmark",
+		"County": "Barnwell",
+		"StationID": "KSCDENMA2",
+		"Latitude": "33.262999999999998",
+		"Longitude": "-81.204999999999998",
+		"Altitude (ft)": "240",
+		"StartDate": "02-20-17"
+	}
+]
